@@ -9,15 +9,15 @@ A counseling and education platform empowering minds since 1986, helping individ
 
 ```bash
 # Clone the repo
-https://github.com/anukulKun/Codex.git
+https://github.com/anukulKun/Surendra-samriddhi-square.git
 
-cd Codex
+cd Surendra-samriddhi-square
 
 # Install dependencies
-bun install
+npm install
 
 # Start the dev server
-bun dev
+npm run dev
 
 
 
